@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f8f8;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #1e3a8a;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 24px;
+}
+
+marquee.scroll-news {
+  background: #fde047;
+  color: #111;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 16px;
+}
+
+main {
+  padding: 20px;
+}
+
+.teams h2 {
+  margin-top: 30px;
+  color: #1e3a8a;
+}
+
+.teams ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.teams ul li {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  font-size: 18px;
+}
+
+footer {
+  background-color: #1e3a8a;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
